@@ -1,0 +1,53 @@
+[
+	{
+		"name": "Baju Muslim",
+		"harga": "Rp 105.000",
+		"ukuran": "XL",
+		"gambar": "images/images1.jpg",
+		"warna": "Merah, Kuning dan Hijau",
+		"Contact": "Email : admin@jualanbaju.com", 
+		"Phone" : "+62812345678",
+		"Address" : "Jl. Ahmad Yani No.0 Surabaya"
+		
+	},
+	{
+		"name": "Kemeja Semi Formal",
+		"harga": "Rp 150.000",
+		"ukuran": "M",
+		"gambar": "images/images2.jpeg",
+		"warna": "Krem, Putih dan Merah",
+		"Contact": "Email : admin@jualanbaju.com", 
+		"Phone" : "+62812345678",
+		"Address" : "Jl. Ahmad Yani No.0 Surabaya"
+	},
+	{
+		"name": "Kemeja Casual",
+		"harga": "Rp 200.000",
+		"ukuran": "S",
+		"gambar": "images/images3.jpeg",
+		"warna": "Coklat, Maroon dan Navy",
+		"Contact": "Email : admin@jualanbaju.com", 
+		"Phone" : "+62812345678",
+		"Address" : "Jl. Ahmad Yani No.0 Surabaya"
+	},
+	{
+		"name": "Kemeja Semi Formal",
+		"harga": "Rp 175.000",
+		"ukuran": "M",
+		"gambar": "images/images4.jpeg",
+		"warna": "Biru, Putih dan Krem",
+		"Contact": "Email : admin@jualanbaju.com", 
+		"Phone" : "+62812345678",
+		"Address" : "Jl. Ahmad Yani No.0 Surabaya"
+	},
+	{
+		"name": "Kemeja Formal",
+		"harga": "Rp 100.000",
+		"ukuran": "L",
+		"gambar": "images/images5.jpeg",
+		"warna": "Pink, Putih dan Krem",
+		"Contact": "Email : admin@jualanbaju.com", 
+		"Phone" : "+62812345678",
+		"Address" : "Jl. Ahmad Yani No.0 Surabaya"
+	}
+]
